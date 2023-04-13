@@ -1,0 +1,18 @@
+{
+  "name": "touchback",
+  "version": "1.0.0",
+  "description": "Backend for TouchBistro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles --runInBand --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "supertest": "^6.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
